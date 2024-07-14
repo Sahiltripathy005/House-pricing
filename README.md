@@ -9,6 +9,7 @@ This project predicts house prices using a machine learning model trained on a d
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Results](#results)
+- [Kaggle Notebook](#kaggle-notebook)
 
 ## Introduction
 House pricing prediction is essential for real estate and finance sectors. This project uses machine learning techniques to predict house prices based on various features.
