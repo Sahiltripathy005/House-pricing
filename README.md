@@ -44,7 +44,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 3. **Model Evaluation**: Evaluate the model using metrics like R² score and Mean Absolute Error, and visualize the results.
 
 ## Results
-The model achieved an R² score of 0.8513 and a Mean Absolute Error of 73879.0146. The scatter plot of actual vs. predicted prices demonstrates the model's performance, with a reference line indicating perfect predictions.
+The model achieved an R² score of <b>0.8513</b> and a Mean Absolute Error of <b>73879.0146</b>. The scatter plot of actual vs. predicted prices demonstrates the model's performance, with a reference line indicating perfect predictions.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
